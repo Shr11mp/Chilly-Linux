@@ -12,6 +12,7 @@
     wayland
 
     git
+    nil
 
     inputs.zen-browser.packages.${pkgs.stdenv.hostPlatform.system}.default
     firefox
